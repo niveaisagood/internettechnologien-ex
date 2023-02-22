@@ -1,5 +1,8 @@
 import express from 'express';
 
+/** Zentrales Objekt für unsere Express-Applikation */
+const app = express();
+
 /**
  * Liste aller ToDos. 
  * Wird später durch Datenbank ersetzt!
