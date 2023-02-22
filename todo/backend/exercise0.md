@@ -12,7 +12,7 @@ lokal auf Ihrem Rechner, wenn Sie lieber lokal arbeiten.
 - [ ] Wechseln Sie ins Verzeichnis `todo/backend` und führen Sie dort
 
   ```Shell
-  npm init
+  npm install
   ```
 
   aus.
