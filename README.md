@@ -1,7 +1,11 @@
-# Webentwicklung
+# Beispiel: ToDo-Anwendung
 
-In diesem Repository finden Sie die Übungen und Beispiele aus dem Kurs Webentwicklung.
+Im Modul *Webentwicklung Frontend* haben wir das Frontend einer ToDo-Anwendung entwickelt. Diese Anwendung hat komplett im Browser funktioniert und ihre
+Daten im [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) gespeichert.
+In den ersten Aufgaben des Moduls *Webentwicklung Backend* wollen wir ein Backend für die Anwendung schreiben, das die Daten serverseitig in einer
+Datenbank speichert und eine Benutzerverwaltung implementiert.
 
-## Beispiel: Todo-Liste
-
-Im Verzeichnis [todo](todo) finden Sie ein Beispiel für eine Todo-Liste. Die Todo-Liste ist eine einfache Anwendung, die es Ihnen ermöglicht, Aufgaben zu erstellen, zu bearbeiten und zu löschen. Die Anwendung ist in JavaScript geschrieben.
+- [ ] [Projekt initialisieren](backend/exercise0.md)
+- [ ] [REST-Schnittstelle erstellen](backend/exercise1.md)
+- [ ] [ToDos in Datenbank persistieren](backend/exercise2.md)
+- [ ] [Benutzerverwaltung konfigurieren](backend/exercise3.md)

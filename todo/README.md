@@ -1,4 +1,4 @@
-# Beispiel: ToDo-Anwendung
+# Aufgabe: ToDo-Anwendung
 
 Im Modul *Webentwicklung Frontend* haben wir das Frontend einer ToDo-Anwendung entwickelt. Diese Anwendung hat komplett im Browser funktioniert und ihre
 Daten im [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) gespeichert.
