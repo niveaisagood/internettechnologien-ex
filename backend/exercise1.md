@@ -32,3 +32,6 @@ eine Funktion um und hinterher mergen Sie Ihren Code.
 - [ ] Read eines einzelnen ToDos,
 - [ ] Update eines ToDos,
 - [ ] Delete eines ToDos.
+
+> **Note**<br>
+> Um den Inhalt des Requests (den *Body*) als JSON-Objekt zu lesen, benötigen Sie die [Body Parser Middleware](https://expressjs.com/en/resources/middleware/body-parser.html)!
