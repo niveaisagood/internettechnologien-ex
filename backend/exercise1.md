@@ -18,7 +18,8 @@ Eine übliche Implementierung ist es, diese vier Operationen auf entsprechende H
 Wir verwenden vorerst noch ein Array für die Speicherung der ToDos (s. [index.js](index.js)).
 
 - [ ] Implementieren Sie mithilfe von _Express.js_ für Route `/todos` die Methode _GET_. Diese soll die Liste der ToDos zurückgeben.
-      Denken Sie daran, dass Sie anschließend die Methode `app.listen()` aufrufen müssen.
+      Orientieren Sie sich dabai am [Hello World Beispiel](https://expressjs.com/de/starter/hello-world.html) von Express.
+      Denken Sie daran, dass Sie auch die Methode `app.listen()` aufrufen müssen.
 - [ ] Testen Sie mithilfe von `curl`, dass Ihre Anwendung funktioniert.
 - [ ] Richten Sie ggf. in Ihrer Entwicklungsumgebung eine passende Portweiterleitung ein und testen Sie die Route mithilfe Ihres Webbrowsers.
 
