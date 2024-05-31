@@ -23,3 +23,14 @@ let TODOS = [
 ];
 
 // Your code here
+
+/** GET Route für /todos */
+app.get('/todos', (req, res) => {
+    res.json(TODOS);
+});
+
+/** Server startet und hört auf Port 3000 */
+const PORT = 3000;
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
